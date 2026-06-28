@@ -1,1 +1,3 @@
 # Contador
+Este contador, eu fiz um mes atrás (28/06/2026), eu gosto bastando dele, pois eu me inspirei no contador da code con. Eu sei que comparando, tudo da code con esta mais bonito que o meu mas oque importa e conhecimento e apredizado, o contador esta ate que bem legal, eu passei um pouco de sufoco durante a criacao mas no final eu fiquei muito contente. Eu espero que o meu projeto sirva de inspiracao um dia, ele esta bem porquinho mas ainda esta funcional, por enquanto eu so estou aprendendo, mas logo logo irei apresentar mais projetos muito melhores que este, ou um pouco melhores.
+caso queira acessar o resultado clique: https://luiz883la.github.io/Contador/
